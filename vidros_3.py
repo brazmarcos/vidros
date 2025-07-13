@@ -4,10 +4,12 @@ import dash
 from dash import dcc, html, dash_table
 from dash.dependencies import Input, Output, State, ALL
 import dash_bootstrap_components as dbc
+import os
 
-# Carregar e preparar dados
-caminho_arquivo = r"C:\Users\Petinelli-0090\Documents\Petinelli\Python\Vidros\vid_input.csv"
+# Caminho relativo (assumindo que o CSV está na mesma pasta do script)
+caminho_arquivo = os.path.join(os.path.dirname(__file__), "vid_input.csv")
 dados = pd.read_csv(caminho_arquivo)
+
 
 # Garantir que os códigos HEX são válidos
 dados['HEX'] = dados['HEX'].apply(lambda x: f'#{x}' if not str(x).startswith('#') else str(x))
