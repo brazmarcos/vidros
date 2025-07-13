@@ -376,3 +376,5 @@ def update_table(selected_data, remove_clicks, current_data):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+server = app.server  # Permite que o Render reconheça como aplicação web
