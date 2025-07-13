@@ -1,0 +1,85 @@
+﻿Fabricante,Modelo,Tipo de vidro,Fator Solar,Transmitancia Luminosa,Fator U,Reflexao interna,Reflexao externa,Custo,Aspecto,HEX
+Guardian,LamiGlass Clear,Laminado,79,89,5.6,8.4,8.4,190,Neutro,#D3D3D3
+Cebrace,Incolor,Laminado,78,87,5.6,,,130,Neutro,#D3D3D3
+Guardian,Neutral 70,Laminado,60,72,5.6,9,9,320,Neutro,#D3D3D3
+Guardian,Neutral 70,Insulado,58,69,1.9,12.7,12.8,550,Neutro,#D3D3D3
+Cebrace,ST 167,Laminado,64,70,5.6,12,13,243,Neutro ,#D3D3D3
+Guardian,Sunlight,Laminado,67,69,5.6,9.3,11.4,263,Neutro,#D3D3D3
+AGC,Stratobel Sunergy (importado),Laminado,58,69,5.5,,,,Neutro,#D3D3D3
+Cebrace,"Habitat Neutro 
+Incolor",Laminado,64,69,5.8,,13,310,Neutro,#D3D3D3
+Cebrace,"Habitat Neutro 
+Incolor",Insulado,55,63,2.8,,,570,Neutro,#D3D3D3
+Cebrace,ST 167,Insulado,55,63,5.6,,,513,Neutro,#D3D3D3
+Guardian,Sunlight,Insulado,62,61,2.8,20.2,60.8,850,Neutro,#D3D3D3
+AGC,Sunlux Shadow 60,Laminado,60,60,5.6,11,13,,Neutro,#D3D3D3
+Cebrace,SKN 065 - Descontinuado,Laminado,37,59,5.6,,,410,Neutro azul,#B8CAD4
+Cebrace,KNT 164,Laminado,51,58,5.6,8,12,342,Neutro,#D3D3D3
+Guardian,Neutral 55,Laminado,43,57,5.6,16.8,22.3,320,Neutro,#D3D3D3
+Guardian,Light Gray 52,Laminado,56,57,5.6,10.2,14.3,250,Neutro Cinza,#666666
+Cebrace,Emerald,Laminado,42,57,5.6,6,6,,Neutro verde,#687060
+Cebrace,SKN 165 - Descontinuado,Laminado,37,57,5.8,,,369,Azul,#0000FF
+Guardian,Light Blue 52 - virou Light Gray 52,Laminado,57,56,5.6,,,230,,#B8CAD4
+Guardian,Neutral 55,Insulado,41,55,1.7,15.8,25.1,550,Neutro,#D3D3D3
+Cebrace,KNT164,Insulado,41,54,2.8,,,782,Refletivo azul,#171796
+Cebrace,KNT 164,Insulado,41,54,1.8,,,770.5,Refletivo azul,#171796
+Cebrace,ST 150,Laminado,55,53,5.6,11,15,310.5,Neutro acinzentado,#666666
+Cebrace,"Habitat Neutro 
+Cinza",Laminado,55,53,5.8,,15,270,Cinza,#808080
+AGC,Sunlux Shadow 50,Laminado,47,52,5.6,11,10,,Neutro verde,#687060
+Guardian,Neutral Plus 50,Insulado,37,50,1.7,15.4,25.9,456,Neutro,#D3D3D3
+Cebrace,KNT 055,Laminado,46,49,5.6,,,380,,#666666
+Cebrace,SKN 154,Laminado,33,48,5.6,25,22,471.5,Neutro azul,#B8CAD4
+Cebrace,BRN 148,Laminado,45,48,5.6,12,12,368,Neutro cinza,#666666
+Guardian,Light Blue 52 - virou Light Gray 52,Insulado,50,48,2.8,,,495,,#B8CAD4
+Cebrace,ST 150,Insulado,45,47.6,2.8,,,655,Neutro acinzentado,#666666
+Guardian,Light Gray 52,Insulado,50,47,2.8,22.7,19.1,495,Neutro Cinza,#666666
+Guardian,Neutral Plus 50,Laminado,39,47,5.6,19,25,320,Neutro Cinza,#D3D3D3
+Cebrace,KNT 155,Laminado,43,47,5.6,12,14,437,Neutro cinza,#666666
+Cebrace,Habitat Neutro Cinza,Insulado,44,46,2.8,,,570,,#D3D3D3
+Guardian,Ambar,Laminado,46,44,5.6,12.8,14.6,275,Âmbar,#FFBF00
+Guardian,Ambar,Insulado,40,43,2.5,14.5,21.1,,Âmbar,#FFBF00
+Cebrace,BRN 148,Insulado,35,43,2.8,,,713,Neutro cinza,#666666
+Cebrace,KNT 455,Laminado,39,43,5.6,,,360,,#687060
+Guardian,AG43,Insulado,32,42,1.7,14,29.8,,Neutro Azul,#B8CAD4
+Guardian,Neutral Plus 41,Laminado,45,42,5.6,8.8,23.5,285,Neutro,#D3D3D3
+Guardian,Neutral Plus 41,Insulado,45,41,0.3,8.8,23.5,,Neutro,#D3D3D3
+Guardian,AG43,Laminado,35,39,5.6,19,31,347,Neutro Azul,#B8CAD4
+Guardian,Neutral 40,Insulado,56,39,1.2,17,24,475,Neutro,#D3D3D3
+Cebrace,Reflecta,Laminado,48,38,5.6,44,44,234,Refletivo champanhe,#DEC19E
+Guardian,Royal Blue 40,Insulado,32,38,1.8,17.9,25.2,,Azul,#0000FF
+Cebrace,ST 136,Laminado,42,38,5.6,13,20,333.5,Semirefletivo prata,#D5D5D5
+Guardian,Neutral 40,Laminado,38,38,5.6,12,23,300,Neutro,#D3D3D3
+Guardian,Select Gold,Insulado,29,38,1.6,,,,,#DEC19E
+AGC,Sunlux Shadow 35,Laminado,47,37,5.6,11,10,,Neutro cinza,#666666
+Guardian,Select Gold,Laminado,34,37,5.6,,,300,Bronze,#DEC19E
+Guardian,Royal Blue 40,Laminado,37,35,5.6,24,29,,Azul,#0000FF
+Cebrace,ST 436,Laminado,37,35,5.6,,,288,Semirrefletivo Verde,#00FF00
+Cebrace,KNT 140,Laminado,34,34,5.6,19,23,437,Semirrefletivo prata,#D5D5D5
+Guardian,Chrome,Laminado,40,34,5.6,11.2,27.1,230,Prata,#D5D5D5
+Guardian,Silver 32,Laminado,40,33,5.6,16.6,22.9,277,Prata,#D5D5D5
+Cebrace,KBT 140,Laminado,35,32,5.6,26,30,437,Refletivo azul,#171796
+Guardian,Chrome,Insulado,33,32,2.7,17.1,32,,Prata,#D5D5D5
+Cebrace,BRS 131,Laminado,33,32,5.6,9,31,368,Refletivo prata,#D5D5D5
+Cebrace,KST 138,Laminado,28,32,5.6,,,437,Refletivo prata,#D5D5D5
+Guardian,Reflect,Laminado,47,31,5.6,41.2,40.8,,Bronze,#CD7F32
+Guardian,Royal Blue 30,Insulado,31,31,2.6,13.4,29.2,,Azul,#0000FF
+Cebrace,BRN 130,Laminado,33,31,5.6,13,18,368,Semirrefletivo prata,#D5D5D5
+Cebrace,BRZ 130,Laminado,33,31,5.6,8,16,437,Semirrefletivo bronze,#CD7F32
+Guardian,G31,Laminado,33,31,5.6,,,285,Cinza,#808080
+Guardian,Royal Blue 30,Laminado,38,30,5.6,14.8,24.5,,Azul,#0000FF
+AGC,Sunlux Champanhe 29,Laminado,44,29,5.7,51,51,,,#DEC19E
+Guardian,Silver 32,Insulado,32,29,2.7,26.4,25.4,,Prata,#D5D5D5
+Cebrace,BRB 127,Laminado,32,27,5.6,,,342,,#171796
+Cebrace,STR 428,Laminado,36,26,5.6,38,36,322,Refletivo verde,#00FF00
+Guardian,Reflect,Insulado,38,24,2.8,55.2,47.8,,Bronze,#CD7F32
+Guardian,Royal Blue 20,Laminado,32,22,5.6,28.5,23.2,332,Azul,#0000FF
+Cebrace,STB 120,Laminado,32,21,5.6,25,21,368,Refletivo azul,#171796
+Cebrace,ST 120,Laminado,29,21,5.6,21,30,322,Refletivo prata,#D5D5D5
+Guardian,Royal Blue 20,Insulado,23,20,2.5,34.9,22.4,,Azul,#0000FF
+Guardian,Silver 20,Laminado,28,19,5.6,25,32,,Prata,#D5D5D5
+Cebrace,ST 420,Laminado,28,19,5.6,21,25,368,Refletivo verde,#00FF00
+Guardian,Silver 20,Insulado,20,18,2.3,30.2,33.9,,Prata,#D5D5D5
+Guardian,Neutral 14,Laminado,26,16,5.6,30.8,33.6,326,Neutro Prata,#C0C0C0
+Guardian,Neutral 14,Insulado,17,13,2.2,42.1,32.6,,Neutro Prata,#C0C0C0
+Cebrace,ST 108,Laminado,19,8,5.6,,,290,,#D5D5D5
